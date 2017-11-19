@@ -1,4 +1,6 @@
-#
+#Front-End Developer
+##Basic Info:
+E-mail: **georgezaharia13@gmail.com**
 
 
 
