@@ -1,13 +1,15 @@
 # Front-End Developer
-## Basic Info
 
+
+## Basic Info
 E-mail: **georgezaharia13@gmail.com**
 
-Phone: 0762703498
+Phone: **0762703498**
+
 
 ## Work Experience
-
 Internship with InsofTDev - July 2017 - August 2017
+
 
 ## Side Projects
 
