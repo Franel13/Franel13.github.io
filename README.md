@@ -2,6 +2,7 @@
 ## Basic Info
 
 E-mail: **georgezaharia13@gmail.com**
+
 Phone: 0762703498
 
 ## Work Experience
